@@ -1,13 +1,30 @@
-CODSOFT DATA SCIENCE INTERNSHIP
+# Titanic Survival Prediction 🚢
 
-Name: Radhika Singla
-Batch: March B87
+## Objective
+Predict whether a passenger survived the Titanic disaster using machine learning.
 
-Tasks Completed:
+## Steps Performed
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Model Training (Random Forest)
 
-1. Titanic Survival Prediction
-2. Iris Flower Classification
-3. Sales Prediction Using Python
+## Features Used
+- Pclass
+- Sex
+- Age
+- Fare
+- Embarked
+- FamilySize
+- IsAlone
 
-Tools Used:
-Python, Pandas, Scikit-Learn, Matplotlib
+## Model Performance
+Accuracy: ~75–85%
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
