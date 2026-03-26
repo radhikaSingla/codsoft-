@@ -5,7 +5,7 @@ Each project is structured in a clean and organized way with separate folders fo
 
 ---
 
-## 📌 Projects Included
+##  Projects Included
 
 ###  1. Titanic Survival Prediction
 
@@ -14,7 +14,7 @@ Each project is structured in a clean and organized way with separate folders fo
 * Applied machine learning algorithms for classification
 * Evaluated model performance using accuracy and metrics
 
-📂 Folder: `Task-1-Titanic`
+Folder: `Task-1-Titanic`
 
 ---
 
@@ -25,11 +25,23 @@ Each project is structured in a clean and organized way with separate folders fo
 * Performed data visualization using pairplots
 * Compared model performance
 
-📂 Folder: `Task-2-Iris-Classification`
+ Folder: `Task-2-Iris-Classification`
 
 ---
 
-## 🛠️ Tech Stack
+###  3. Sales Prediction using Linear Regression
+
+* Predicts product sales based on advertising budget
+* Performed data visualization using pairplots and heatmaps
+* Built a regression model using Linear Regression
+* Evaluated model using MAE, MSE, and R² score
+* Visualized feature importance and model performance
+
+Folder: `Task-3-Sales-Prediction`
+
+---
+
+## Tech Stack
 
 * Python 
 * Pandas
@@ -45,12 +57,12 @@ Each project is structured in a clean and organized way with separate folders fo
 * Data preprocessing and cleaning
 * Exploratory Data Analysis (EDA)
 * Model building and evaluation
-* Importance of feature selection
+* Feature importance analysis
 * Writing clean and structured code
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Each project follows this structure:
 
@@ -64,13 +76,13 @@ Task/
 
 ---
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
 👉 https://github.com/radhikaSingla/codsoft-
 
 ---
 
-##  Author
+## ✨ Author
 
 **Radhika Singla**
 
